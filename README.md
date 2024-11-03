@@ -1,2 +1,2 @@
 # A-new-segmentation-model
-Comming soon!!!
+Coming soon!!!
