@@ -14,7 +14,10 @@ model’s performance compared to other loss functions. To validate performance,
 image datasets, ISIC2018 and PH2, with results consistently showing superior performance compared to other 
 models. 
 # Network
+![Model Architecture](Image/LiteMamba-Bound.png)
 # Evaluation
+![ISIC18](Image/ISIC18.png)
+![PH2](Image/PH2.jpeg)
 # Main Environments
 - Google Colab with NVidia T4 GPU
 - PyTorch v2.4.0
