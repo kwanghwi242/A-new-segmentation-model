@@ -1,4 +1,4 @@
-#  LiteMamba-Bound: A lightweight Mamba-based model with boundary-aware and normalized active contour loss for skin lesion segmentation [**[Paper Link]**] (https://www.sciencedirect.com/science/article/pii/S1046202325000118) (Code will be update as soon as possible)
+#  LiteMamba-Bound: A lightweight Mamba-based model with boundary-aware and normalized active contour loss for skin lesion segmentation [**[Paper Link]**](https://www.sciencedirect.com/science/article/abs/pii/S1046202325000118)
 In the field of medical science, skin segmentation has gained significant importance, particularly in dermatology and skin cancer research. This domain demands high precision in distinguishing critical regions (such as lesions 
 or moles) from healthy skin in medical images. With growing technological advancements, deep learning 
 models have emerged as indispensable tools in addressing these challenges. One of the state-of-the-art modules 
